@@ -1,0 +1,11 @@
+@import 'npm:reset-css';
+
+body {
+	font-size: 1.1em;
+}
+
+.container {
+	margin: auto;
+	width: 1024px;
+	border: 1px solid black;
+}
